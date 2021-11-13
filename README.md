@@ -1439,7 +1439,7 @@
 | 黑苹果安装学院   | [链接](https://github.com/huangyz0918/Hackintosh-Installer-University)           | [链接](https://github.com/huangyz0918/Hackintosh-Installer-University/blob/master/README-CN.md) | 这个和本 repo 功能类似，既然作者开放了，我们也可以收录补充 |
 | 黑苹果互助项目   |                                                                                  |                                                                                                 | 和本 repo 类似                                             |
 
-## 其它机型请提交到[这里](https://github.com/daliansky/Hackintosh)
+## 其它机型请提交到[ASUS X555LD](https://github.com/daliansky/Hackintosh)
 
 ## 感谢名单
 
